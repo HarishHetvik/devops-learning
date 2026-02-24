@@ -11,3 +11,4 @@ like your next learning goal
 Today is Feb 18, I learned that -T in SSH means No Terminal. The pipeline is back online!
 
 I am testing a dangerous change here!
+Local version is best !

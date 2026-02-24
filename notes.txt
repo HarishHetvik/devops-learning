@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 --- REMOTE UPDATE FROM GITHUB ---
+=======
+--- This is a special update for the legacy branch ---
+>>>>>>> legacy-feature
 
 Learning DevOps is my goal 
 
